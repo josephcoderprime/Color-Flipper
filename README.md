@@ -1,2 +1,2 @@
 # Color-Flipper
- Simple project that randomises colours on clikc 
+ Simple project that randomises colours on click
